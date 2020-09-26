@@ -10,7 +10,6 @@
 #include <iostream>
 #include <functional>
 #include <chrono>
-#include <ratio>
 
 
 class ScopeTimer
