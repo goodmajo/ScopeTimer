@@ -8,7 +8,6 @@
 #define SCOPETIMER_HPP
 
 #include <iostream>
-#include <functional>
 #include <chrono>
 
 
