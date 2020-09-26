@@ -1,0 +1,1 @@
+This is a little class I use to time execution of blocks of code. I've been using it for a few years in a variety of incarnations and it's never done me wrong.
